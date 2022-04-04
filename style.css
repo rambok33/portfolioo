@@ -1,13 +1,13 @@
 :root {
   --first-color: #0e2431;
-  --second-color: #865439;
-  --third-color: #777;
-  --hover-color: #865439;
+  --second-color: #4700D8;
+  --third-color: black;
+  --hover-color: #cd94ee;
   --boby-bg-color: #fefefe;
   --card-bg-volor: #fff;
-  --bg-transparent-color: #865439;
-  --transparent-color-01: #865439;
-  --transparent-color-02: #cfc2bb;
+  --bg-transparent-color: #6b72cf;
+  --transparent-color-01: #6b72cf;
+  --transparent-color-02: #6b72cf;
   --line-color: #d7d7d7;
 
   --color-filter: invert(1);
@@ -192,31 +192,6 @@ header.sticky .nav-bar{
 .nav-items a:hover {
   color: var(--second-color);
 }
-/* .home hr{
-  border: 4px solid var(--second-color);
-  height: 550px;
-  animation: arrow-down ease 2s infinite;
-  
-} */
-/* .themepage{
-  z-index: 999999;
- position: fixed;
- right: 0;
- top: 150px;
- background: var(--transparent-color-01);
- backdrop-filter: blur(20px);
- width: 50px;
- height: 50px;
- font-size: 1.2em;
- border-radius:  5px 0 0 5px;
- box-shadow: var(--box-shadow);
- cursor: pointer;
-}
-.themepage .fas-sun{
-display: none;
-
-
-} */
 
 
 
